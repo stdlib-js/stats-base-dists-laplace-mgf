@@ -69,13 +69,13 @@ where `mu` is the location parameter and `b` is the scale parameter. For `|t| >=
 ## Usage
 
 ```javascript
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mgf@esm/index.mjs';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mgf@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mgf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mgf@v0.2.2-esm/index.mjs';
 ```
 
 #### mgf( t, mu, b )
@@ -167,7 +167,7 @@ y = mymgf( 0.4 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mgf@esm/index.mjs';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mgf@v0.2.2-esm/index.mjs';
 
 var mu;
 var b;
