@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-06-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`3418475`](https://github.com/stdlib-js/stdlib/commit/3418475fabc0de813b178807a80853d2867cc326) - **docs:** correct `mu` description and `b` JSDoc type in `stats/base/dists/laplace/mgf` [(#12449)](https://github.com/stdlib-js/stdlib/pull/12449) _(by Philipp Burckhardt)_
 -   [`3f8da9f`](https://github.com/stdlib-js/stdlib/commit/3f8da9f06286333269e9065344b495a7d91fffa4) - **bench:** refactor to use string interpolation in `stats/base/dists/laplace` [(#10440)](https://github.com/stdlib-js/stdlib/pull/10440) _(by Vishal Gaikwad)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
